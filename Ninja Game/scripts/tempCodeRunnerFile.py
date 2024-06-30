@@ -1,0 +1,1 @@
+extract(self, id_pairs, keep=False)
