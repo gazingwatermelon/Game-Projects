@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+
+header{
+    display:inline-block;
+}
+
+/* div.left_column{
+    background-color:brown;
+    height:100%;
+    width: 100%;
+} */
+
+div.inner_column{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-width: 3px;
+    background-color: white;
+}
+
+video{
+    width: 40%;
+}
+
+hr{
+    color: black;
+}

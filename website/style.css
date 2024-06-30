@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: url('background.gif') no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  display: flow-root;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+figure.item{
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+}
+
+.caption{
+    display: block;
+}
+
+.game-section {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.game-name{
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.icon{
+    padding-left: 20px;
+    padding-right: 20px;
+    /* padding-top: 20px; */
+    width: 300px;
+    height: 300px;
+    opacity: 0.7;
+    transition: all 0.3s ease;
+}
+
+.icon:hover{
+    opacity: 1;
+    content: url('Recording.gif');
+}
+
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin: 10px 0 0 0;
+}
