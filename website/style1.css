@@ -1,29 +1,9 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(5, 116, 5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    color: #b4b2ea;
 }
 
 header{
-    display:inline-block;
-}
-
-/* div.left_column{
-    background-color:brown;
-    height:100%;
-    width: 100%;
-} */
-
-div.inner_column{
     text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
-    border-width: 3px;
-    background-color: white;
-}
-
-video{
-    width: 40%;
-}
-
-hr{
-    color: black;
 }
